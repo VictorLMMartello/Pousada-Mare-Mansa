@@ -1,4 +1,4 @@
-![Logo Pousada Maré Mansa](./codigo/LogoPousadaMare.png)
+![Logo Pousada Maré Mansa](./codigo/LogoPousadaMare.png) 
 
 # 🏨 Pousada Maré Mansa
 
